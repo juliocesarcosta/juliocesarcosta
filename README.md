@@ -1,6 +1,5 @@
 ### Olá meu nome é Júlio César 👋
 ## Algumas das Tecnologias que eu estou aprendendo no curso.
-## Tenho noção de Git é github,html,css,javascript.
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -10,4 +9,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Desenvolvedor front-end. (Uso VSCode).
+Desenvolvedor front-end. (Uso VSCode). Tenho noção de Git é github,html,css,javascript.
